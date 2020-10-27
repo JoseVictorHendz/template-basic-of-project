@@ -57,10 +57,7 @@ body: {
 
 ## Deletar usuário.
 ```
-UPDATE: localhost:3333/users/:id
-body: {
-        "name": "zezim"
-      }
+DELETE: localhost:3333/users/:id
 ```
 
 ## Logon e logoff de usuário.
