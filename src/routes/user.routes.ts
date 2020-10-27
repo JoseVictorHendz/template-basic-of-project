@@ -66,7 +66,7 @@ userRoutes.delete('/:id', async (request, Response) => {
 
   await deleteUserService.execute({ id });
 
-  Response.json({ message: 'User ha been deleted' });
+  Response.json({ message: 'User has been deleted' });
 });
 
 export default userRoutes;
