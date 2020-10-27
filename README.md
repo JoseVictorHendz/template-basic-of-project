@@ -16,7 +16,7 @@ Indice
 Configs do projeto
 =
 * Para padronização da formatação de código foram usados eslintrc, editorconfig e prettier.
-* O banco de dados utilizado foi postgres, [configure aqui o banco](https://github.com/JoseVictorHendz/desafio-database-upload/blob/master/ormconfig.json).
+* O banco de dados utilizado foi postgres, [configure aqui o banco](https://github.com/JoseVictorHendz/template-basic-of-project/blob/main/ormconfig.json).
 
 
 Execução do projeto
